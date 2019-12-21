@@ -10,3 +10,6 @@ Day 1
 
  
 Day 2
+
+Day 11
+https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576968648373100?thread_ts=1576968648.373100
