@@ -1,14 +1,23 @@
 
-#### Udacity-Bertelsmann Challende  
+#### Udacity-Bertelsmann Challenge  
 
 ## Event Logs
 # CloudDevOps track
 
-This repo is a log of activities, shared resources and tracking community of the [Udacity Bertelsmann Challenge](https://www.udacity.com/bertelsmann-tech-scholarships)
+This repository is a log of activities, shared resources and tracking community of the [Udacity Bertelsmann Challenge](https://www.udacity.com/bertelsmann-tech-scholarships)
+
+## Contents
+  - 1. Lesson notes
+     - Git
+     - Cloud fundamentals
+     - Infrastructure-as-a-code
+
+
+  - 2. ["60 days of Udacity" Challenge](#2. "60 days of Udacity" daily posts)
 
 
 
-### 60_days_Udacity daily posts
+### 2. "60 days of Udacity" daily posts
 
 Day 11
 https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576968648373100?thread_ts=1576968648.373100
@@ -32,7 +41,6 @@ Day 6
 
 Day 5
 ![day_5](assets/60_days_Udacity/D5.png)
-
 
 Day 4
 ![day_4](assets/60_days_Udacity/D4.png)
