@@ -8,11 +8,11 @@ This repository is a log of activities, shared resources and tracking community 
 
 ## Contents
   - 1. Lesson notes
-     - [Git notes]()
+     - [Git notes](https://github.com/bkocis/bertelsmann-udacity-challenge-logs/blob/master/git_notes.md)
      - [Cloud fundamentals notes]()
      - [Infrastructure-as-a-code]()
 
 
-  - 2. ["60 days of Udacity" Challenge](https://github.com/bkocis/bertelsmann-udacity-challenge-logs#2-60-days-of-udacity-daily-posts)
+  - 2. ["60 days of Udacity" Challenge](https://github.com/bkocis/bertelsmann-udacity-challenge-logs/blob/master/60-days-udacity.md)
 
 ---
