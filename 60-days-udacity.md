@@ -1,23 +1,22 @@
 ### "60 days of Udacity" daily posts
 
-Day 11
-https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576968648373100?thread_ts=1576968648.373100
+[Day 11](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576968648373100?thread_ts=1576968648.373100)
 
 ![day_11](assets/60_days_Udacity/D11.png)
 
-Day 10
+[Day 10](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576880366416300?thread_ts=1576880366.416300)
 ![day_10](assets/60_days_Udacity/D10.png)
 
-Day 9
+[Day 9](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576775047274600?thread_ts=1576775047.274600)
 ![day_9](assets/60_days_Udacity/D9.png)
 
-Day 8
+[Day 8](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576682275082100?thread_ts=1576682275.082100)
 ![day_8](assets/60_days_Udacity/D8.png)
 
-Day 7
+[Day 7](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576534492401100)
 ![day_7](assets/60_days_Udacity/D7.png)
 
-Day 6
+[Day 6](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1576449530461100?thread_ts=1576449530.461100)
 ![day_6](assets/60_days_Udacity/D6.png)
 
 Day 5
