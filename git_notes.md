@@ -1,6 +1,10 @@
-Content
-- Commands
-- Terminology
+# Git notes
+Notes form the lessons on git and github.
+
+
+## Content
+- [Commands](#Commands)
+- [Terminology](#Terminology)
 - References
 
 
@@ -8,35 +12,30 @@ Content
 ---
 
 ## Commands
+|                        Command        | Description |
+| ------------------------------------- | ---|
+|`git init`| |
+|`git status`| |
+|`git clone`| |
+|`git log` | |
+|`git log --oneline` |  |
+|`git log --stats` | |
+|`git log --decorate` | |
+|`git log -p` | |
+|`git add` | |
+|`git commit` | |
+|`git diff`|  The command can be used to see changes that have been made but haven't been committed, yet. |
+|`git tag -a v1.0 <SHA>`| |
+|`git tag -d v1.0`| |
+|`git branch`| |
+|`git branch sidebar`| |
+|`git checkout master/sidebar`| |
+|`git log --oneline --decorate --graph --all` | |
+| `git merge` | (fast forward merge) (merge conflicts) |
+| `git commit --amend` |  |
+| `git revert <SHA-of-commit-to-revert>` | |
+| `git reset` | |
 
-git init
-git status
-git clone
-git log
-git log --oneline
-git log --stats
-git log --decorate
-git log -p
-git add
-git commit
-git diff - The git diff command can be used to see changes that have been made but haven't been committed, yet.
-
-git tag -a v1.0 SHA
-git tag -d v1.0
-
-git branch
-git branch sidebar
-git checkout master/sidebar
-git log --oneline --decorate --graph --all
-
-git merge
-(fast forward merge)
-(merge conflicts)
-
-git commit --amend
-git revert <SHA-of-commit-to-revert>
-
-git reset
 
 
 
@@ -70,6 +69,7 @@ TIP:
 ## Terminology
 
 Terminology
+
 Version Control System / Source Code Manager
 
 A version control system (abbreviated as VCS) is a tool that manages different versions of source code. A source code manager (abbreviated as SCM) is another name for a version control system.
@@ -96,7 +96,6 @@ A checkout is when content in the repository has been copied to the Working Dire
 Staging Area / Staging Index / Index
 
 A file in the Git directory that stores information about what will go into your next commit. You can think of the staging area as a prep table where Git will take the next commit. Files on the Staging Index are poised to be added to the repository.
-SHA
 
 A SHA is basically an ID number for each commit. Here's what a commit's SHA might look like: e2adf8ae3e2e4ed40add75cc44cf9d0a869afeb6.
 
