@@ -4,8 +4,11 @@ Notes form the lessons on git and github.
 
 ## Content
 - [Commands](#Commands)
+  - list of commands introduced in the lectires with a small description as a reminder.
 - [Terminology](#Terminology)
-- References
+  - explanation for some of the terms used in the lessons
+- [References](#References)
+  - links and references to further learning
 
 
 
@@ -14,27 +17,28 @@ Notes form the lessons on git and github.
 ## Commands
 |                        Command        | Description |
 | ------------------------------------- | ---|
-|`git init`| |
-|`git status`| |
-|`git clone`| |
-|`git log` | |
-|`git log --oneline` |  |
-|`git log --stats` | |
-|`git log --decorate` | |
-|`git log -p` | |
-|`git add` | |
-|`git commit` | |
+|`git init`| initialize the git in the folder |
+|`git status`| return the current state of the files modified, added or commited |
+|`git clone`| copy/clone a (local or remote) reporsitory and initialize git |
+|`git log` | log command for returning a detailed list of commits and relevant metadata |
+|`git log --oneline` | flag for the log command to reduce shown output more concisely  |
+|`git log --stats` | flag for the log command to show file change statistics |
+|`git log --decorate` | flag for the log command to show branches and current position |
+|`git log -p` | flag for the log command  |
+|`git add` | add filed to the the stage |
+|`git commit` | submit the file changes to the git |
 |`git diff`|  The command can be used to see changes that have been made but haven't been committed, yet. |
-|`git tag -a v1.0 <SHA>`| |
-|`git tag -d v1.0`| |
-|`git branch`| |
-|`git branch sidebar`| |
-|`git checkout master/sidebar`| |
-|`git log --oneline --decorate --graph --all` | |
+|`git tag -a v1.0 <SHA>`| use of tag comand for marking versions and special positions in the code change history |
+|`git tag -d v1.0`| remove tag |
+|`git branch`| lists out all branches available  |
+|`git branch sidebar`| create branch with the name 'sidebar'|
+|`git checkout master/sidebar`| swithc to specified branch |
+|`git log --oneline --decorate --graph --all` | usefull log command to show git tree |
 | `git merge` | (fast forward merge) (merge conflicts) |
-| `git commit --amend` |  |
-| `git revert <SHA-of-commit-to-revert>` | |
-| `git reset` | |
+| `git commit --amend` | revert the last commit  |
+| `git revert <SHA-of-commit-to-revert>` | The git revert command is a forward-moving undo operation that offers a safe method of undoing changes. Instead of deleting or orphaning commits in the commit history, a revert will create a new commit that inverses the changes specified. Git revert is a safer alternative to git reset in regards to losing work. Reverting creates a new commit that reverts or undos a previous commit. Resetting, on the other hand, erases commits! |
+| `git reset` | It can be used to move the HEAD and current branch pointer to the referenced commit, erase commits, move committed changes to the staging index, or unstage committed changes
+|
 
 
 
@@ -44,26 +48,22 @@ TIP-s
 TIP: Did you also notice the helpful text that's located just beneath "Changes to be committed"? It says (use "git rm --cached <file>..." to unstage) This is a hint of what you should do if you accidentally ran git add and gave it the wrong file.
 
 TIP: Globbing lets you use special characters to match patterns/characters. In the .gitignore file, you can use the following:
-
-    blank lines can be used for spacing
-    # - marks line as a comment
-    * - matches 0 or more characters
-    ? - matches 1 character
-    [abc] - matches a, b, _or_ c
-    ** - matches nested directories - a/**/z matches
-        a/z
-        a/b/z
-        a/b/c/z
+- blank lines can be used for spacing
+- `#` - marks line as a comment
+- `*` - matches 0 or more characters
+- `?`` - matches 1 character
+[abc] - matches a, b, _or_ c
+** - matches nested directories - a/**/z matches a/z, a/b/z, a/b/c/z
 
 TIP:
 
-    It's very important to know which branch you're on when you're about to merge branches together. Remember that making a merge makes a commit.
+It's very important to know which branch you're on when you're about to merge branches together. Remember that making a merge makes a commit.
 
-    As of right now, we do not know how to undo changes. We'll go over it in the next lesson, but if you make a merge on the wrong branch, use this command to undo the merge:
+As of right now, we do not know how to undo changes. We'll go over it in the next lesson, but if you make a merge on the wrong branch, use this command to undo the merge:
 
-    git reset --hard HEAD^
+`git reset --hard HEAD^`
 
-    (Make sure to include the ^ character! It's a known as a "Relative Commit Reference" and indicates "the parent commit". We'll look at Relative Commit References in the next lesson.)
+(Make sure to include the ^ character! It's a known as a "Relative Commit Reference" and indicates "the parent commit". We'll look at Relative Commit References in the next lesson.)
 
 
 ## Terminology
