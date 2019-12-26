@@ -74,3 +74,25 @@ Developer is responsible for:
 ### EBS - for EC2 instances [Volums]
 Elastic Block Store (EBS) is a storage solution for EC2 instances and is a physical hard drive that is attached to the EC2 instance to increase storage. Persist data even after EC2 instance is removed. 
 [Elastic Block Store](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
+
+
+## __AWS__ Security
+
+Security in the cloud allows you to have complete control over your virtual networking environment: configure your virtual network with public or private facing subnets, and launch your servers in the selected network to secure access
+
+## __AWS__ [Virtual Private Cloud (VPC)](https://en.wikipedia.org/wiki/Virtual_private_cloud) and  [aws-VPS](https://aws.amazon.com/vpc/)
+
+Virtual Private Cloud or VPC allows you to create your own private network in the cloud. You can launch services, like EC2, inside of that private network. A VPC spans all the Availability Zones in the region.
+
+VPC allows you to control your virtual networking environment, which includes: IP address ranges, subnets, route tables, network gateways
+
+VPC is found under Networking & Content Delivery section of the AWS Management Console. 
+
+The default limit is 5 VPCs per Region. You can request an increase for these limits.
+
+Your AWS resources are automatically provisioned in a default VPC.
+
+There are no additional charges for creating and using the VPC.
+
+You can store data in Amazon S3 and restrict access so that it’s only accessible from instances in your VPC.
+
