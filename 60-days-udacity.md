@@ -1,5 +1,8 @@
 ### "60 days of Udacity" daily posts
 
+[D_16](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1577487469212700?thread_ts=1577487469.212700)
+![day_16](assets/60_days_Udacity/D16.png)
+
 [D_15](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1577401161229700?thread_ts=1577401161.229700)
 ![day_15](assets/60_days_Udacity/D15.png)
 
