@@ -13,9 +13,7 @@ This repository is a log of activities, shared resources and tracking community 
      - [Infrastructure-as-a-code]()
 
 
-  2. ["60 days of Udacity" Challenge](https://github.com/bkocis/bertelsmann-udacity-challenge-logs/blob/master/60-days-udacity.md)
-
-  A list of the posts for the daily progress in the course.
+  2. ["60 days of Udacity" Challenge](https://github.com/bkocis/bertelsmann-udacity-challenge-logs/blob/master/60-days-udacity.md) - A list of the posts for the daily progress in the course.
 
 ---
 My articles related to this Challenge:
