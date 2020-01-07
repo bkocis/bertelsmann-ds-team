@@ -1,5 +1,17 @@
 ### "60 days of Udacity" daily posts
 
+[D26](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1578435713250300?thread_ts=1578435713.250300)
+![day_26](assets/60_days_Udacity/D26.png)
+
+[D25](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1578263911128300)
+![day_25](assets/60_days_Udacity/D25.png)
+
+[D_24](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1578178297413400?thread_ts=1578178297.413400)
+![day_24](assets/60_days_Udacity/D24.png)
+
+[D_23](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1578090718252100?thread_ts=1578090718.252100)
+![day_23](assets/60_days_Udacity/D23.png)
+
 [D_22](https://bertelsmanncloud.slack.com/archives/CRDMQ3H32/p1578005675090900?thread_ts=1578005675.090900)
 ![day_22](assets/60_days_Udacity/D22.png)
 
