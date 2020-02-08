@@ -1,5 +1,12 @@
 ### "60 days of Udacity" daily posts
 
+[D_50]()
+![day_50](assets/60_days_Udacity/D50.png)
+
+[D_49]()
+![day_49](assets/60_days_Udacity/D49.png)
+
+
 [D_48]()
 ![day_48](assets/60_days_Udacity/D48.png)
 
